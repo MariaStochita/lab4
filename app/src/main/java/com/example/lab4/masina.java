@@ -52,3 +52,4 @@ public class masina implements Serializable {
         return "Marcă: " + marca + ", An: " + anFabricatie + ", Electrică: " + (esteElectrica ? "Da" : "Nu") + ", Rating: " + rating;
     }
 }
+//update
